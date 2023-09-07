@@ -1,10 +1,12 @@
 #include <stdio.h>
 
+/* 4-puts: This is a simple C program that prints the strings to the console */
 /**
- * This is a simple C program that will output the strings to the console.
- * This is the program' main function 
+ * main - Entry point
+ *
  * It prints the added message to the output
- * If the program succeeds, it returns zero
+ *
+ * Return: always 0 (success)
  */
 int main(void)
 {
